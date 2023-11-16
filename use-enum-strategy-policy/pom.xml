@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>use-enum-strategy</artifactId>
+    <artifactId>use-enum-strategy-policy</artifactId>
     <name>${project.artifactId}</name>
     <description>Use if</description>
 

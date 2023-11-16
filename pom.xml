@@ -14,6 +14,7 @@
 
     <modules>
         <module>use-enum-strategy</module>
+        <module>use-enum-strategy-policy</module>
         <module>use-if</module>
         <module>use-strategy</module>
     </modules>
